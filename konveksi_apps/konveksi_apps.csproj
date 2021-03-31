@@ -1,0 +1,600 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A605577A-ABB1-417E-9A0A-33FCC2FD7258}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>konveksi_apps</RootNamespace>
+    <AssemblyName>konveksi_apps</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="KonveksiClass">
+      <HintPath>..\KonveksiClass\bin\Debug\KonveksiClass.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bahan\FormDaftarBahan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bahan\FormDaftarBahan.Designer.cs">
+      <DependentUpon>FormDaftarBahan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bahan\FormHapusBahan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bahan\FormHapusBahan.Designer.cs">
+      <DependentUpon>FormHapusBahan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bahan\FormTambahBahan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bahan\FormTambahBahan.Designer.cs">
+      <DependentUpon>FormTambahBahan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bahan\FormUpdateBahan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bahan\FormUpdateBahan.Designer.cs">
+      <DependentUpon>FormUpdateBahan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Barang\FormDaftarBarang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Barang\FormDaftarBarang.Designer.cs">
+      <DependentUpon>FormDaftarBarang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Barang\FormHapusBarang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Barang\FormHapusBarang.Designer.cs">
+      <DependentUpon>FormHapusBarang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bahan\FormNotifikasiBahan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bahan\FormNotifikasiBahan.Designer.cs">
+      <DependentUpon>FormNotifikasiBahan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Barang\FormNotifikasiBarang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Barang\FormNotifikasiBarang.Designer.cs">
+      <DependentUpon>FormNotifikasiBarang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Barang\FormTambahBarang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Barang\FormTambahBarang.Designer.cs">
+      <DependentUpon>FormTambahBarang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Barang\FormUbahBarang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Barang\FormUbahBarang.Designer.cs">
+      <DependentUpon>FormUbahBarang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Utama\FormUtama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Utama\FormUtama.Designer.cs">
+      <DependentUpon>FormUtama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLaporanMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLaporanMaster.Designer.cs">
+      <DependentUpon>FormLaporanMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLaporanTransaksi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLaporanTransaksi.Designer.cs">
+      <DependentUpon>FormLaporanTransaksi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Jabatan\FormDaftarJabatan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Jabatan\FormDaftarJabatan.Designer.cs">
+      <DependentUpon>FormDaftarJabatan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Jabatan\FormHapusJabatan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Jabatan\FormHapusJabatan.Designer.cs">
+      <DependentUpon>FormHapusJabatan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Jabatan\FormTambahJabatan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Jabatan\FormTambahJabatan.Designer.cs">
+      <DependentUpon>FormTambahJabatan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Jabatan\FormUbahJabatan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Jabatan\FormUbahJabatan.Designer.cs">
+      <DependentUpon>FormUbahJabatan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Jenis Bahan\FormDaftarJenisBahan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Jenis Bahan\FormDaftarJenisBahan.Designer.cs">
+      <DependentUpon>FormDaftarJenisBahan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Jenis Bahan\FormHapusJenisBahan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Jenis Bahan\FormHapusJenisBahan.Designer.cs">
+      <DependentUpon>FormHapusJenisBahan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Jenis Bahan\FormTambahJenisBahan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Jenis Bahan\FormTambahJenisBahan.Designer.cs">
+      <DependentUpon>FormTambahJenisBahan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Jenis Bahan\FormUbahJenisBahan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Jenis Bahan\FormUbahJenisBahan.Designer.cs">
+      <DependentUpon>FormUbahJenisBahan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kategori\FormDaftarKategori.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kategori\FormDaftarKategori.Designer.cs">
+      <DependentUpon>FormDaftarKategori.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kategori\FormHapusKategori.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kategori\FormHapusKategori.Designer.cs">
+      <DependentUpon>FormHapusKategori.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kategori\FormTambahKategori.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kategori\FormTambahKategori.Designer.cs">
+      <DependentUpon>FormTambahKategori.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kategori\FormUbahKategori.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kategori\FormUbahKategori.Designer.cs">
+      <DependentUpon>FormUbahKategori.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kegiatan\FormUbahKegiatan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kegiatan\FormUbahKegiatan.Designer.cs">
+      <DependentUpon>FormUbahKegiatan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kegiatan\FormHapusKegiatan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kegiatan\FormHapusKegiatan.Designer.cs">
+      <DependentUpon>FormHapusKegiatan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kegiatan\FormTambahKegiatan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kegiatan\FormTambahKegiatan.Designer.cs">
+      <DependentUpon>FormTambahKegiatan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kegiatan\FormDaftarKegiatan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kegiatan\FormDaftarKegiatan.Designer.cs">
+      <DependentUpon>FormDaftarKegiatan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login\FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nota Pembelian\FormCetakNotaBeli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nota Pembelian\FormCetakNotaBeli.Designer.cs">
+      <DependentUpon>FormCetakNotaBeli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nota Pembelian\FormDaftarNotaBeli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nota Pembelian\FormDaftarNotaBeli.Designer.cs">
+      <DependentUpon>FormDaftarNotaBeli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nota Pembelian\FormTambahNotaBeli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nota Pembelian\FormTambahNotaBeli.Designer.cs">
+      <DependentUpon>FormTambahNotaBeli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nota Penjualan\FormDaftarNotaJual.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nota Penjualan\FormDaftarNotaJual.Designer.cs">
+      <DependentUpon>FormDaftarNotaJual.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nota Penjualan\FormNotifikasiNotaJual.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nota Penjualan\FormNotifikasiNotaJual.Designer.cs">
+      <DependentUpon>FormNotifikasiNotaJual.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nota Penjualan\FormTambahNotaJual.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nota Penjualan\FormTambahNotaJual.Designer.cs">
+      <DependentUpon>FormTambahNotaJual.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nota Penjualan\FormUbahNotaJual.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nota Penjualan\FormUbahNotaJual.Designer.cs">
+      <DependentUpon>FormUbahNotaJual.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Notifikasi\FormNotifikasi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Notifikasi\FormNotifikasi.Designer.cs">
+      <DependentUpon>FormNotifikasi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pegawai\FormDaftarPegawai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pegawai\FormDaftarPegawai.Designer.cs">
+      <DependentUpon>FormDaftarPegawai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pegawai\FormHapusPegawai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pegawai\FormHapusPegawai.Designer.cs">
+      <DependentUpon>FormHapusPegawai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pegawai\FormTambahPegawai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pegawai\FormTambahPegawai.Designer.cs">
+      <DependentUpon>FormTambahPegawai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pegawai\FormUbahPegawai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pegawai\FormUbahPegawai.Designer.cs">
+      <DependentUpon>FormUbahPegawai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pekerjaan\FormTambahPekerjaan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pekerjaan\FormTambahPekerjaan.Designer.cs">
+      <DependentUpon>FormTambahPekerjaan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pekerjaan\FormUbahPekerjaan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pekerjaan\FormUbahPekerjaan.Designer.cs">
+      <DependentUpon>FormUbahPekerjaan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pekerjaan\FormHapusPekerjaan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pekerjaan\FormHapusPekerjaan.Designer.cs">
+      <DependentUpon>FormHapusPekerjaan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pekerjaan\FormDaftarPekerjaan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pekerjaan\FormDaftarPekerjaan.Designer.cs">
+      <DependentUpon>FormDaftarPekerjaan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pelanggan\FormDaftarPelanggan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pelanggan\FormDaftarPelanggan.Designer.cs">
+      <DependentUpon>FormDaftarPelanggan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pelanggan\FormHapusPelanggan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pelanggan\FormHapusPelanggan.Designer.cs">
+      <DependentUpon>FormHapusPelanggan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pelanggan\FormTambahPelanggan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pelanggan\FormTambahPelanggan.Designer.cs">
+      <DependentUpon>FormTambahPelanggan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pelanggan\FormUbahPelanggan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pelanggan\FormUbahPelanggan.Designer.cs">
+      <DependentUpon>FormUbahPelanggan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Satuan\FormDaftarSatuan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Satuan\FormDaftarSatuan.Designer.cs">
+      <DependentUpon>FormDaftarSatuan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Satuan\FormHapusSatuan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Satuan\FormHapusSatuan.Designer.cs">
+      <DependentUpon>FormHapusSatuan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Satuan\FormTambahSatuan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Satuan\FormTambahSatuan.Designer.cs">
+      <DependentUpon>FormTambahSatuan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Satuan\FormUpdateSatuan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Satuan\FormUpdateSatuan.Designer.cs">
+      <DependentUpon>FormUpdateSatuan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Supplier\FormDaftarSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Supplier\FormDaftarSupplier.Designer.cs">
+      <DependentUpon>FormDaftarSupplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Supplier\FormHapusSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Supplier\FormHapusSupplier.Designer.cs">
+      <DependentUpon>FormHapusSupplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Supplier\FormTambahSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Supplier\FormTambahSupplier.Designer.cs">
+      <DependentUpon>FormTambahSupplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Supplier\FormUbahSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Supplier\FormUbahSupplier.Designer.cs">
+      <DependentUpon>FormUbahSupplier.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Bahan\FormDaftarBahan.resx">
+      <DependentUpon>FormDaftarBahan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bahan\FormHapusBahan.resx">
+      <DependentUpon>FormHapusBahan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bahan\FormTambahBahan.resx">
+      <DependentUpon>FormTambahBahan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bahan\FormUpdateBahan.resx">
+      <DependentUpon>FormUpdateBahan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Barang\FormDaftarBarang.resx">
+      <DependentUpon>FormDaftarBarang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Barang\FormHapusBarang.resx">
+      <DependentUpon>FormHapusBarang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bahan\FormNotifikasiBahan.resx">
+      <DependentUpon>FormNotifikasiBahan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Barang\FormNotifikasiBarang.resx">
+      <DependentUpon>FormNotifikasiBarang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Barang\FormTambahBarang.resx">
+      <DependentUpon>FormTambahBarang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Barang\FormUbahBarang.resx">
+      <DependentUpon>FormUbahBarang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Utama\FormUtama.resx">
+      <DependentUpon>FormUtama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLaporanMaster.resx">
+      <DependentUpon>FormLaporanMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLaporanTransaksi.resx">
+      <DependentUpon>FormLaporanTransaksi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Jabatan\FormDaftarJabatan.resx">
+      <DependentUpon>FormDaftarJabatan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Jabatan\FormHapusJabatan.resx">
+      <DependentUpon>FormHapusJabatan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Jabatan\FormTambahJabatan.resx">
+      <DependentUpon>FormTambahJabatan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Jabatan\FormUbahJabatan.resx">
+      <DependentUpon>FormUbahJabatan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Jenis Bahan\FormDaftarJenisBahan.resx">
+      <DependentUpon>FormDaftarJenisBahan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Jenis Bahan\FormHapusJenisBahan.resx">
+      <DependentUpon>FormHapusJenisBahan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Jenis Bahan\FormTambahJenisBahan.resx">
+      <DependentUpon>FormTambahJenisBahan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Jenis Bahan\FormUbahJenisBahan.resx">
+      <DependentUpon>FormUbahJenisBahan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kategori\FormDaftarKategori.resx">
+      <DependentUpon>FormDaftarKategori.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kategori\FormHapusKategori.resx">
+      <DependentUpon>FormHapusKategori.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kategori\FormTambahKategori.resx">
+      <DependentUpon>FormTambahKategori.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kategori\FormUbahKategori.resx">
+      <DependentUpon>FormUbahKategori.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kegiatan\FormHapusKegiatan.resx">
+      <DependentUpon>FormHapusKegiatan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kegiatan\FormTambahKegiatan.resx">
+      <DependentUpon>FormTambahKegiatan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kegiatan\FormDaftarKegiatan.resx">
+      <DependentUpon>FormDaftarKegiatan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kegiatan\FormUbahKegiatan.resx">
+      <DependentUpon>FormUbahKegiatan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login\FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nota Pembelian\FormCetakNotaBeli.resx">
+      <DependentUpon>FormCetakNotaBeli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nota Pembelian\FormDaftarNotaBeli.resx">
+      <DependentUpon>FormDaftarNotaBeli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nota Pembelian\FormTambahNotaBeli.resx">
+      <DependentUpon>FormTambahNotaBeli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nota Penjualan\FormDaftarNotaJual.resx">
+      <DependentUpon>FormDaftarNotaJual.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nota Penjualan\FormNotifikasiNotaJual.resx">
+      <DependentUpon>FormNotifikasiNotaJual.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nota Penjualan\FormTambahNotaJual.resx">
+      <DependentUpon>FormTambahNotaJual.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nota Penjualan\FormUbahNotaJual.resx">
+      <DependentUpon>FormUbahNotaJual.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Notifikasi\FormNotifikasi.resx">
+      <DependentUpon>FormNotifikasi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pegawai\FormDaftarPegawai.resx">
+      <DependentUpon>FormDaftarPegawai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pegawai\FormHapusPegawai.resx">
+      <DependentUpon>FormHapusPegawai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pegawai\FormTambahPegawai.resx">
+      <DependentUpon>FormTambahPegawai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pegawai\FormUbahPegawai.resx">
+      <DependentUpon>FormUbahPegawai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pekerjaan\FormDaftarPekerjaan.resx">
+      <DependentUpon>FormDaftarPekerjaan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pekerjaan\FormHapusPekerjaan.resx">
+      <DependentUpon>FormHapusPekerjaan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pekerjaan\FormTambahPekerjaan.resx">
+      <DependentUpon>FormTambahPekerjaan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pekerjaan\FormUbahPekerjaan.resx">
+      <DependentUpon>FormUbahPekerjaan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pelanggan\FormDaftarPelanggan.resx">
+      <DependentUpon>FormDaftarPelanggan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pelanggan\FormHapusPelanggan.resx">
+      <DependentUpon>FormHapusPelanggan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pelanggan\FormTambahPelanggan.resx">
+      <DependentUpon>FormTambahPelanggan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pelanggan\FormUbahPelanggan.resx">
+      <DependentUpon>FormUbahPelanggan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Satuan\FormDaftarSatuan.resx">
+      <DependentUpon>FormDaftarSatuan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Satuan\FormHapusSatuan.resx">
+      <DependentUpon>FormHapusSatuan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Satuan\FormTambahSatuan.resx">
+      <DependentUpon>FormTambahSatuan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Satuan\FormUpdateSatuan.resx">
+      <DependentUpon>FormUpdateSatuan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Supplier\FormDaftarSupplier.resx">
+      <DependentUpon>FormDaftarSupplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Supplier\FormHapusSupplier.resx">
+      <DependentUpon>FormHapusSupplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Supplier\FormTambahSupplier.resx">
+      <DependentUpon>FormTambahSupplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Supplier\FormUbahSupplier.resx">
+      <DependentUpon>FormUbahSupplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "konveksi_apps", "konveksi_apps\konveksi_apps.csproj", "{A605577A-ABB1-417E-9A0A-33FCC2FD7258}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KonveksiClass", "KonveksiClass\KonveksiClass.csproj", "{B10145D8-E2A8-47BA-B0F4-85936A7B0362}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A605577A-ABB1-417E-9A0A-33FCC2FD7258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A605577A-ABB1-417E-9A0A-33FCC2FD7258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A605577A-ABB1-417E-9A0A-33FCC2FD7258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A605577A-ABB1-417E-9A0A-33FCC2FD7258}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B10145D8-E2A8-47BA-B0F4-85936A7B0362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B10145D8-E2A8-47BA-B0F4-85936A7B0362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B10145D8-E2A8-47BA-B0F4-85936A7B0362}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B10145D8-E2A8-47BA-B0F4-85936A7B0362}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {037D4249-CEB7-4A4F-8E58-F2A06F256197}
+	EndGlobalSection
+EndGlobal

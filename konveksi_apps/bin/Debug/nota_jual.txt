@@ -1,0 +1,20 @@
+        Nota Penjualan        
+    UD. KONVEKSI DAN SABLON INDRA
+    Kota Mataram, Lombok, NTB
+    Telp. (031) - 89900800
+==========================================
+No.Nota   : 20210314001
+Tanggal   : 3/14/2021 5:27:56 AM
+Tanggal Selesai   : 3/14/2021 5:27:56 AM
+
+Pelanggan : Fitriyani
+Alamat    : Jl. Madrasah No.7
+
+Kasir     : Cek Bahan Baku
+==========================================
+Flower Petals                 10 80,000
+==========================================
+TOTAL : 800,000
+==========================================
+     Terima Kasih Sudah Membeli Produk Kami     
+

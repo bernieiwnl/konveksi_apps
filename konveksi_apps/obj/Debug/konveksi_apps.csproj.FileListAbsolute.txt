@@ -1,0 +1,476 @@
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.csprojAssemblyReference.cache
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.FormDaftarBarang.resources
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Barang.FormHapusBarang.resources
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Barang.FormTambahBarang.resources
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Barang.FormUbahBarang.resources
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Form_Utama.FormUtama.resources
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Jabatan.FormDaftarJabatan.resources
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Jabatan.FormHapusJabatan.resources
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Jabatan.FormTambahJabatan.resources
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Jabatan.FormUbahJabatan.resources
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kategori.FormDaftarKategori.resources
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kategori.FormHapusKategori.resources
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kategori.FormTambahKategori.resources
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kategori.FormUbahKategori.resources
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Login.FormLogin.resources
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Pembelian.FormDaftarNotaBeli.resources
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Pembelian.FormTambahNotaBeli.resources
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Penjualan.FormDaftarNotaJual.resources
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Penjualan.FormTambahNotaJual.resources
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pegawai.FormDaftarPegawai.resources
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pegawai.FormHapusPegawai.resources
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pegawai.FormTambahPegawai.resources
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pegawai.FormUbahPegawai.resources
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pelanggan.FormDaftarPelanggan.resources
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pelanggan.FormHapusPelanggan.resources
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pelanggan.FormTambahPelanggan.resources
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pelanggan.FormUbahPelanggan.resources
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Properties.Resources.resources
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Supplier.FormDaftarSupplier.resources
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Supplier.FormHapusSupplier.resources
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Supplier.FormTambahSupplier.resources
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Supplier.FormUbahSupplier.resources
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.csproj.GenerateResource.cache
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.csproj.CoreCompileInputs.cache
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\konveksi_apps\bin\Debug\konveksi_apps.exe.config
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\konveksi_apps\bin\Debug\konveksi_apps.exe
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\konveksi_apps\bin\Debug\konveksi_apps.pdb
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.exe
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.pdb
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\konveksi_apps\bin\Debug\KonveksiClass.dll
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\konveksi_apps\bin\Debug\MySql.Data.dll
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\konveksi_apps\bin\Debug\KonveksiClass.pdb
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.csproj.CopyComplete
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\konveksi_apps\bin\Debug\PQScan.BarcodeCreator.dll
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.FormLaporanMaster.resources
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.FormLaporanTransaksi.resources
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Penjualan.FormNotifikasiNotaJual.resources
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Penjualan.FormUbahNotaJual.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\konveksi_apps\bin\Debug\konveksi_apps.exe.config
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\konveksi_apps\bin\Debug\konveksi_apps.exe
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\konveksi_apps\bin\Debug\konveksi_apps.pdb
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\konveksi_apps\bin\Debug\KonveksiClass.dll
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\konveksi_apps\bin\Debug\PQScan.BarcodeCreator.dll
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\konveksi_apps\bin\Debug\MySql.Data.dll
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\konveksi_apps\bin\Debug\KonveksiClass.pdb
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.FormDaftarBarang.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Barang.FormHapusBarang.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Barang.FormTambahBarang.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Barang.FormUbahBarang.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Form_Utama.FormUtama.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.FormLaporanMaster.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.FormLaporanTransaksi.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Jabatan.FormDaftarJabatan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Jabatan.FormHapusJabatan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Jabatan.FormTambahJabatan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Jabatan.FormUbahJabatan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kategori.FormDaftarKategori.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kategori.FormHapusKategori.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kategori.FormTambahKategori.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kategori.FormUbahKategori.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Login.FormLogin.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Pembelian.FormDaftarNotaBeli.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Pembelian.FormTambahNotaBeli.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Penjualan.FormDaftarNotaJual.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Penjualan.FormNotifikasiNotaJual.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Penjualan.FormTambahNotaJual.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Penjualan.FormUbahNotaJual.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pegawai.FormDaftarPegawai.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pegawai.FormHapusPegawai.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pegawai.FormTambahPegawai.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pegawai.FormUbahPegawai.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pelanggan.FormDaftarPelanggan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pelanggan.FormHapusPelanggan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pelanggan.FormTambahPelanggan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pelanggan.FormUbahPelanggan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Properties.Resources.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Supplier.FormDaftarSupplier.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Supplier.FormHapusSupplier.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Supplier.FormTambahSupplier.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Supplier.FormUbahSupplier.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.csproj.GenerateResource.cache
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.csproj.CoreCompileInputs.cache
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.csproj.CopyComplete
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.exe
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.pdb
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.csprojAssemblyReference.cache
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.csprojAssemblyReference.cache
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.FormDaftarBarang.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Barang.FormHapusBarang.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Barang.FormTambahBarang.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Barang.FormUbahBarang.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Form_Utama.FormUtama.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.FormLaporanMaster.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.FormLaporanTransaksi.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Jabatan.FormDaftarJabatan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Jabatan.FormHapusJabatan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Jabatan.FormTambahJabatan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Jabatan.FormUbahJabatan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kategori.FormDaftarKategori.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kategori.FormHapusKategori.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kategori.FormTambahKategori.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kategori.FormUbahKategori.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kegiatan.FormDaftarKegiatan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Login.FormLogin.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Pembelian.FormDaftarNotaBeli.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Pembelian.FormTambahNotaBeli.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Penjualan.FormDaftarNotaJual.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Penjualan.FormNotifikasiNotaJual.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Penjualan.FormTambahNotaJual.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Penjualan.FormUbahNotaJual.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pegawai.FormDaftarPegawai.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pegawai.FormHapusPegawai.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pegawai.FormTambahPegawai.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pegawai.FormUbahPegawai.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pelanggan.FormDaftarPelanggan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pelanggan.FormHapusPelanggan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pelanggan.FormTambahPelanggan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pelanggan.FormUbahPelanggan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Properties.Resources.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Supplier.FormDaftarSupplier.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Supplier.FormHapusSupplier.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Supplier.FormTambahSupplier.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Supplier.FormUbahSupplier.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.csproj.GenerateResource.cache
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.csproj.CoreCompileInputs.cache
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.exe
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.pdb
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\bin\Debug\konveksi_apps.exe.config
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\bin\Debug\konveksi_apps.exe
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\bin\Debug\konveksi_apps.pdb
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\bin\Debug\KonveksiClass.dll
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\bin\Debug\PQScan.BarcodeCreator.dll
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\bin\Debug\MySql.Data.dll
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\bin\Debug\KonveksiClass.pdb
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.csproj.CopyComplete
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kegiatan.FormHapusKegiatan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kegiatan.FormTambahKegiatan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kegiatan.FormUbahKegiatan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pekerjaan.FormDaftarPekerjaan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pekerjaan.FormHapusPekerjaan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pekerjaan.FormTambahPekerjaan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pekerjaan.FormUbahPekerjaan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Pembelian.FormCetakNotaBeli.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Barang.FormNotifikasiBarang.resources
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\bin\Debug\konveksi_apps.exe.config
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\bin\Debug\konveksi_apps.exe
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\bin\Debug\konveksi_apps.pdb
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\bin\Debug\KonveksiClass.dll
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\bin\Debug\PQScan.BarcodeCreator.dll
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\bin\Debug\MySql.Data.dll
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\bin\Debug\KonveksiClass.pdb
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.csprojAssemblyReference.cache
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.FormDaftarBarang.resources
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Barang.FormHapusBarang.resources
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Barang.FormNotifikasiBarang.resources
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Barang.FormTambahBarang.resources
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Barang.FormUbahBarang.resources
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Form_Utama.FormUtama.resources
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.FormLaporanMaster.resources
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.FormLaporanTransaksi.resources
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Jabatan.FormDaftarJabatan.resources
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Jabatan.FormHapusJabatan.resources
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Jabatan.FormTambahJabatan.resources
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Jabatan.FormUbahJabatan.resources
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kategori.FormDaftarKategori.resources
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kategori.FormHapusKategori.resources
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kategori.FormTambahKategori.resources
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kategori.FormUbahKategori.resources
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kegiatan.FormHapusKegiatan.resources
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kegiatan.FormTambahKegiatan.resources
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kegiatan.FormDaftarKegiatan.resources
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kegiatan.FormUbahKegiatan.resources
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Login.FormLogin.resources
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Pembelian.FormCetakNotaBeli.resources
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Pembelian.FormDaftarNotaBeli.resources
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Pembelian.FormTambahNotaBeli.resources
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Penjualan.FormDaftarNotaJual.resources
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Penjualan.FormNotifikasiNotaJual.resources
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Penjualan.FormTambahNotaJual.resources
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Penjualan.FormUbahNotaJual.resources
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pegawai.FormDaftarPegawai.resources
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pegawai.FormHapusPegawai.resources
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pegawai.FormTambahPegawai.resources
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pegawai.FormUbahPegawai.resources
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pekerjaan.FormDaftarPekerjaan.resources
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pekerjaan.FormHapusPekerjaan.resources
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pekerjaan.FormTambahPekerjaan.resources
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pekerjaan.FormUbahPekerjaan.resources
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pelanggan.FormDaftarPelanggan.resources
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pelanggan.FormHapusPelanggan.resources
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pelanggan.FormTambahPelanggan.resources
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pelanggan.FormUbahPelanggan.resources
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Properties.Resources.resources
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Supplier.FormDaftarSupplier.resources
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Supplier.FormHapusSupplier.resources
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Supplier.FormTambahSupplier.resources
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Supplier.FormUbahSupplier.resources
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.csproj.GenerateResource.cache
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.csproj.CoreCompileInputs.cache
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.csproj.CopyComplete
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.exe
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.pdb
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\bin\Debug\konveksi_apps.exe.config
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\bin\Debug\konveksi_apps.exe
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\bin\Debug\konveksi_apps.pdb
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\bin\Debug\KonveksiClass.dll
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\bin\Debug\PQScan.BarcodeCreator.dll
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\bin\Debug\MySql.Data.dll
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\bin\Debug\KonveksiClass.pdb
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.csprojAssemblyReference.cache
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.FormDaftarBarang.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Barang.FormHapusBarang.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Barang.FormNotifikasiBarang.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Barang.FormTambahBarang.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Barang.FormUbahBarang.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Form_Utama.FormUtama.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.FormLaporanMaster.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.FormLaporanTransaksi.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Jabatan.FormDaftarJabatan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Jabatan.FormHapusJabatan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Jabatan.FormTambahJabatan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Jabatan.FormUbahJabatan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kategori.FormDaftarKategori.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kategori.FormHapusKategori.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kategori.FormTambahKategori.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kategori.FormUbahKategori.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kegiatan.FormHapusKegiatan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kegiatan.FormTambahKegiatan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kegiatan.FormDaftarKegiatan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kegiatan.FormUbahKegiatan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Login.FormLogin.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Pembelian.FormCetakNotaBeli.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Pembelian.FormDaftarNotaBeli.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Pembelian.FormTambahNotaBeli.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Penjualan.FormDaftarNotaJual.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Penjualan.FormNotifikasiNotaJual.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Penjualan.FormTambahNotaJual.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Penjualan.FormUbahNotaJual.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pegawai.FormDaftarPegawai.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pegawai.FormHapusPegawai.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pegawai.FormTambahPegawai.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pegawai.FormUbahPegawai.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pekerjaan.FormDaftarPekerjaan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pekerjaan.FormHapusPekerjaan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pekerjaan.FormTambahPekerjaan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pekerjaan.FormUbahPekerjaan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pelanggan.FormDaftarPelanggan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pelanggan.FormHapusPelanggan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pelanggan.FormTambahPelanggan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pelanggan.FormUbahPelanggan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Properties.Resources.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Supplier.FormDaftarSupplier.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Supplier.FormHapusSupplier.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Supplier.FormTambahSupplier.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Supplier.FormUbahSupplier.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.csproj.GenerateResource.cache
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.csproj.CoreCompileInputs.cache
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.csproj.CopyComplete
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.exe
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.pdb
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Notifikasi.FormNotifikasi.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Bahan.FormHapusBahan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Bahan.FormTambahBahan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Bahan.FormUpdateBahan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Bahan.FormDaftarBahan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Barang.FormNotifikasiBahan.resources
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\bin\Debug\konveksi_apps.exe.config
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\bin\Debug\konveksi_apps.exe
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\bin\Debug\konveksi_apps.pdb
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\bin\Debug\KonveksiClass.dll
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\bin\Debug\PQScan.BarcodeCreator.dll
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\bin\Debug\MySql.Data.dll
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\bin\Debug\KonveksiClass.pdb
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.csprojAssemblyReference.cache
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Bahan.FormDaftarBahan.resources
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Bahan.FormHapusBahan.resources
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Bahan.FormTambahBahan.resources
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Bahan.FormUpdateBahan.resources
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.FormDaftarBarang.resources
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Barang.FormHapusBarang.resources
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Barang.FormNotifikasiBahan.resources
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Barang.FormNotifikasiBarang.resources
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Barang.FormTambahBarang.resources
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Barang.FormUbahBarang.resources
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Form_Utama.FormUtama.resources
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.FormLaporanMaster.resources
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.FormLaporanTransaksi.resources
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Jabatan.FormDaftarJabatan.resources
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Jabatan.FormHapusJabatan.resources
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Jabatan.FormTambahJabatan.resources
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Jabatan.FormUbahJabatan.resources
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kategori.FormDaftarKategori.resources
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kategori.FormHapusKategori.resources
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kategori.FormTambahKategori.resources
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kategori.FormUbahKategori.resources
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kegiatan.FormHapusKegiatan.resources
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kegiatan.FormTambahKegiatan.resources
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kegiatan.FormDaftarKegiatan.resources
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kegiatan.FormUbahKegiatan.resources
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Login.FormLogin.resources
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Pembelian.FormCetakNotaBeli.resources
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Pembelian.FormDaftarNotaBeli.resources
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Pembelian.FormTambahNotaBeli.resources
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Penjualan.FormDaftarNotaJual.resources
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Penjualan.FormNotifikasiNotaJual.resources
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Penjualan.FormTambahNotaJual.resources
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Penjualan.FormUbahNotaJual.resources
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Notifikasi.FormNotifikasi.resources
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pegawai.FormDaftarPegawai.resources
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pegawai.FormHapusPegawai.resources
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pegawai.FormTambahPegawai.resources
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pegawai.FormUbahPegawai.resources
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pekerjaan.FormDaftarPekerjaan.resources
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pekerjaan.FormHapusPekerjaan.resources
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pekerjaan.FormTambahPekerjaan.resources
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pekerjaan.FormUbahPekerjaan.resources
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pelanggan.FormDaftarPelanggan.resources
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pelanggan.FormHapusPelanggan.resources
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pelanggan.FormTambahPelanggan.resources
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pelanggan.FormUbahPelanggan.resources
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Properties.Resources.resources
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Supplier.FormDaftarSupplier.resources
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Supplier.FormHapusSupplier.resources
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Supplier.FormTambahSupplier.resources
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Supplier.FormUbahSupplier.resources
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.csproj.GenerateResource.cache
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.csproj.CoreCompileInputs.cache
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.csproj.CopyComplete
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.exe
+C:\Users\IndraAlfiansyahM\Downloads\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.pdb
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\bin\Debug\konveksi_apps.exe.config
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\bin\Debug\konveksi_apps.exe
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\bin\Debug\konveksi_apps.pdb
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\bin\Debug\KonveksiClass.dll
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\bin\Debug\PQScan.BarcodeCreator.dll
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\bin\Debug\MySql.Data.dll
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\bin\Debug\KonveksiClass.pdb
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.csprojAssemblyReference.cache
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Bahan.FormDaftarBahan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Bahan.FormHapusBahan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Bahan.FormTambahBahan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Bahan.FormUpdateBahan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.FormDaftarBarang.resources
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Barang.FormHapusBarang.resources
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Barang.FormNotifikasiBahan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Barang.FormNotifikasiBarang.resources
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Barang.FormTambahBarang.resources
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Barang.FormUbahBarang.resources
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Form_Utama.FormUtama.resources
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.FormLaporanMaster.resources
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.FormLaporanTransaksi.resources
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Jabatan.FormDaftarJabatan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Jabatan.FormHapusJabatan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Jabatan.FormTambahJabatan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Jabatan.FormUbahJabatan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kategori.FormDaftarKategori.resources
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kategori.FormHapusKategori.resources
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kategori.FormTambahKategori.resources
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kategori.FormUbahKategori.resources
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kegiatan.FormHapusKegiatan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kegiatan.FormTambahKegiatan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kegiatan.FormDaftarKegiatan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kegiatan.FormUbahKegiatan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Login.FormLogin.resources
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Pembelian.FormCetakNotaBeli.resources
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Pembelian.FormDaftarNotaBeli.resources
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Pembelian.FormTambahNotaBeli.resources
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Penjualan.FormDaftarNotaJual.resources
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Penjualan.FormNotifikasiNotaJual.resources
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Penjualan.FormTambahNotaJual.resources
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Penjualan.FormUbahNotaJual.resources
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Notifikasi.FormNotifikasi.resources
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pegawai.FormDaftarPegawai.resources
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pegawai.FormHapusPegawai.resources
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pegawai.FormTambahPegawai.resources
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pegawai.FormUbahPegawai.resources
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pekerjaan.FormDaftarPekerjaan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pekerjaan.FormHapusPekerjaan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pekerjaan.FormTambahPekerjaan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pekerjaan.FormUbahPekerjaan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pelanggan.FormDaftarPelanggan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pelanggan.FormHapusPelanggan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pelanggan.FormTambahPelanggan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pelanggan.FormUbahPelanggan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Properties.Resources.resources
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Supplier.FormDaftarSupplier.resources
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Supplier.FormHapusSupplier.resources
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Supplier.FormTambahSupplier.resources
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Supplier.FormUbahSupplier.resources
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.csproj.GenerateResource.cache
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.csproj.CoreCompileInputs.cache
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.csproj.CopyComplete
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.exe
+C:\Users\Agustian Suhartono\Downloads\konveksiii\konveksi_apps_update_combo_box\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.pdb
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Bahan.FormDaftarBahan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Bahan.FormHapusBahan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Bahan.FormTambahBahan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Bahan.FormUpdateBahan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.FormDaftarBarang.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Barang.FormHapusBarang.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Barang.FormNotifikasiBahan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Barang.FormNotifikasiBarang.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Barang.FormTambahBarang.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Barang.FormUbahBarang.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Form_Utama.FormUtama.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.FormLaporanMaster.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.FormLaporanTransaksi.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Jabatan.FormDaftarJabatan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Jabatan.FormHapusJabatan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Jabatan.FormTambahJabatan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Jabatan.FormUbahJabatan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Jenis_Bahan.FormDaftarJenisBahan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Jenis_Bahan.FormHapusJenisBahan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Jenis_Bahan.FormTambahJenisBahan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Jenis_Bahan.FormUbahJenisBahan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kategori.FormDaftarKategori.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kategori.FormHapusKategori.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kategori.FormTambahKategori.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kategori.FormUbahKategori.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kegiatan.FormHapusKegiatan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kegiatan.FormTambahKegiatan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kegiatan.FormDaftarKegiatan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Kegiatan.FormUbahKegiatan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Login.FormLogin.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Pembelian.FormCetakNotaBeli.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Pembelian.FormDaftarNotaBeli.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Pembelian.FormTambahNotaBeli.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Penjualan.FormDaftarNotaJual.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Penjualan.FormNotifikasiNotaJual.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Penjualan.FormTambahNotaJual.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Nota_Penjualan.FormUbahNotaJual.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Notifikasi.FormNotifikasi.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pegawai.FormDaftarPegawai.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pegawai.FormHapusPegawai.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pegawai.FormTambahPegawai.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pegawai.FormUbahPegawai.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pekerjaan.FormDaftarPekerjaan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pekerjaan.FormHapusPekerjaan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pekerjaan.FormTambahPekerjaan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pekerjaan.FormUbahPekerjaan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pelanggan.FormDaftarPelanggan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pelanggan.FormHapusPelanggan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pelanggan.FormTambahPelanggan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pelanggan.FormUbahPelanggan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Properties.Resources.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Supplier.FormDaftarSupplier.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Supplier.FormHapusSupplier.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Supplier.FormTambahSupplier.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Supplier.FormUbahSupplier.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.csproj.GenerateResource.cache
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.csproj.CoreCompileInputs.cache
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\bin\Debug\konveksi_apps.exe.config
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\bin\Debug\konveksi_apps.exe
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\bin\Debug\konveksi_apps.pdb
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\bin\Debug\KonveksiClass.dll
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\bin\Debug\PQScan.BarcodeCreator.dll
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\bin\Debug\MySql.Data.dll
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\bin\Debug\KonveksiClass.pdb
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.csprojAssemblyReference.cache
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.csproj.CopyComplete
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.exe
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.pdb
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Satuan.FormDaftarSatuan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Satuan.FormHapusSatuan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Satuan.FormTambahSatuan.resources
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Satuan.FormUpdateSatuan.resources

@@ -1,0 +1,54 @@
+        Nota Gaji        
+    UD. KONVEKSI DAN SABLON INDRA
+    Kota Mataram, Lombok, NTB
+    Telp. (031) - 89900800
+==========================================
+No.Pekerjaan    : P1
+Tanggal         : Thursday, 19 November 2020
+
+Pegawai         : nonik
+Kegiatan        : Menjahit
+
+==========================================
+Kode      Barang         Satuan    Harga
+
+B0003     kemeja angel   15        125,000
+==========================================
+Total : 1,875,000
+
+        Nota Gaji        
+    UD. KONVEKSI DAN SABLON INDRA
+    Kota Mataram, Lombok, NTB
+    Telp. (031) - 89900800
+==========================================
+No.Pekerjaan    : P2
+Tanggal         : Monday, 01 January 0001
+
+Pegawai         : Wisma
+Kegiatan        : Menjahit
+
+==========================================
+Kode      Barang         Satuan    Harga
+
+B0001     baju olahraga  3         200,000
+==========================================
+Total : 600,000
+
+        Nota Gaji        
+    UD. KONVEKSI DAN SABLON INDRA
+    Kota Mataram, Lombok, NTB
+    Telp. (031) - 89900800
+==========================================
+No.Pekerjaan    : P3
+Tanggal         : Monday, 01 January 0001
+
+Pegawai         : Hanum
+Kegiatan        : Sablon
+
+==========================================
+Kode      Barang         Satuan    Harga
+
+B0004     Kulot black    3         60,000
+==========================================
+Total : 180,000
+

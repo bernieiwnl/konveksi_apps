@@ -1,0 +1,43 @@
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\KonveksiClass\bin\Debug\KonveksiClass.dll
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\KonveksiClass\bin\Debug\KonveksiClass.pdb
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\KonveksiClass\bin\Debug\MySql.Data.dll
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\KonveksiClass\obj\Debug\KonveksiClass.csproj.CoreCompileInputs.cache
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\KonveksiClass\obj\Debug\KonveksiClass.csproj.CopyComplete
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\KonveksiClass\obj\Debug\KonveksiClass.dll
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\KonveksiClass\obj\Debug\KonveksiClass.pdb
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\KonveksiClass\bin\Debug\PQScan.BarcodeCreator.dll
+C:\Users\Salsabila Zahirah\source\repos\konveksi_apps\KonveksiClass\obj\Debug\KonveksiClass.csprojAssemblyReference.cache
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\KonveksiClass\bin\Debug\KonveksiClass.dll
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\KonveksiClass\bin\Debug\KonveksiClass.pdb
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\KonveksiClass\obj\Debug\KonveksiClass.csproj.CoreCompileInputs.cache
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\KonveksiClass\obj\Debug\KonveksiClass.csproj.CopyComplete
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\KonveksiClass\obj\Debug\KonveksiClass.dll
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\konveksi_apps\KonveksiClass\obj\Debug\KonveksiClass.pdb
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\KonveksiClass\bin\Debug\KonveksiClass.dll
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\KonveksiClass\bin\Debug\KonveksiClass.pdb
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\KonveksiClass\obj\Debug\KonveksiClass.csprojAssemblyReference.cache
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\KonveksiClass\obj\Debug\KonveksiClass.csproj.CoreCompileInputs.cache
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\KonveksiClass\obj\Debug\KonveksiClass.csproj.CopyComplete
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\KonveksiClass\obj\Debug\KonveksiClass.dll
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps2\konveksi_apps\konveksi_apps\KonveksiClass\obj\Debug\KonveksiClass.pdb
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\KonveksiClass\bin\Debug\KonveksiClass.dll
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\KonveksiClass\bin\Debug\KonveksiClass.pdb
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\KonveksiClass\obj\Debug\KonveksiClass.csprojAssemblyReference.cache
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\KonveksiClass\obj\Debug\KonveksiClass.csproj.CoreCompileInputs.cache
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\KonveksiClass\obj\Debug\KonveksiClass.csproj.CopyComplete
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\KonveksiClass\obj\Debug\KonveksiClass.dll
+C:\Users\IndraAlfiansyahM\Downloads\Buku\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\KonveksiClass\obj\Debug\KonveksiClass.pdb
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\KonveksiClass\bin\Debug\KonveksiClass.dll
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\KonveksiClass\bin\Debug\KonveksiClass.pdb
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\KonveksiClass\obj\Debug\KonveksiClass.csprojAssemblyReference.cache
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\KonveksiClass\obj\Debug\KonveksiClass.csproj.CoreCompileInputs.cache
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\KonveksiClass\obj\Debug\KonveksiClass.csproj.CopyComplete
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\KonveksiClass\obj\Debug\KonveksiClass.dll
+C:\Users\Agustian Suhartono\Downloads\konveksi_appsv8(1)\konveksi_appsv8\konveksi_apps2\konveksi_apps\konveksi_apps\KonveksiClass\obj\Debug\KonveksiClass.pdb
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\KonveksiClass\bin\Debug\KonveksiClass.dll
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\KonveksiClass\bin\Debug\KonveksiClass.pdb
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\KonveksiClass\obj\Debug\KonveksiClass.csprojAssemblyReference.cache
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\KonveksiClass\obj\Debug\KonveksiClass.csproj.CoreCompileInputs.cache
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\KonveksiClass\obj\Debug\KonveksiClass.csproj.CopyComplete
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\KonveksiClass\obj\Debug\KonveksiClass.dll
+C:\Users\Agustian Suhartono\Downloads\konveksi_apps\KonveksiClass\obj\Debug\KonveksiClass.pdb
