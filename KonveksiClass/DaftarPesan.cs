@@ -16,7 +16,7 @@ namespace KonveksiClass
 
         public List<pesan> Listpesan { get => listpesan; set => listpesan = value; }
 
-        public int JumlahBahan
+        public int JumlahPesan
         {
             get { return listpesan.Count; }
         }
@@ -32,7 +32,7 @@ namespace KonveksiClass
             Koneksi k = new Koneksi();
             k.Connect();
 
-            string sql = "SELECT pesan.id, p1.id, p1.nama, p2.id, p2.nama, keterangan FROM pesan INNER JOIN pegawai as p1 on pesan.idTujuan = p1.id INNER JOIN pegawai as p2 on pesan.idPenerima = p2.id " +
+            string sql = "SELECT pesan.idPesan, p1.KodePegawai, p1.Nama, p2.KodePegawai, p2.Nama, keterangan FROM pesan INNER JOIN pegawai as p1 on pesan.idTujuan = p1.KodePegawai INNER JOIN pegawai as p2 on pesan.idPenerima = p2.KodePegawai " +
                          "WHERE " + kriteria + " LIKE '%" + nilaiKriteria + "%'";
 
             MySqlCommand c = new MySqlCommand(sql, k.KoneksiDB);
@@ -73,7 +73,7 @@ namespace KonveksiClass
             Koneksi k = new Koneksi();
             k.Connect();
 
-            string sql = "SELECT SUBSTRING(id,2) FROM pesan ORDER BY id DESC LIMIT 1";
+            string sql = "SELECT SUBSTRING(idPesan,2) FROM pesan ORDER BY idPesan DESC LIMIT 1";
 
             MySqlCommand c = new MySqlCommand(sql, k.KoneksiDB);
 
@@ -106,7 +106,7 @@ namespace KonveksiClass
             Koneksi k = new Koneksi();
             k.Connect();
 
-            string sql = "INSERT INTO satuan(idPesan, idTujuan, idPenerima, keterangan) VALUES ('" + p.IdPesan + "','" + p.IdTujuan + "','" + p.IdPenerima + "','" + p.Keterangan + "')";
+            string sql = "INSERT INTO pesan(idPesan, idTujuan, idPenerima, keterangan) VALUES ('" + p.IdPesan + "','" + p.IdTujuan.KodePegawai + "','" + p.IdPenerima.KodePegawai + "','" + p.Keterangan + "')";
 
             MySqlCommand c = new MySqlCommand(sql, k.KoneksiDB);
 
@@ -126,7 +126,7 @@ namespace KonveksiClass
             Koneksi k = new Koneksi();
             k.Connect();
 
-            string sql = "DELETE FROM satuan WHERE idPesan = '" + p.IdPesan + "'";
+            string sql = "DELETE FROM pesan WHERE idPesan = '" + p.IdPesan + "'";
 
             MySqlCommand c = new MySqlCommand(sql, k.KoneksiDB);
 

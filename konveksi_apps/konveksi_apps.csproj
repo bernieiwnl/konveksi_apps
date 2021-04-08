@@ -567,6 +567,15 @@
     <EmbeddedResource Include="Pelanggan\FormUbahPelanggan.resx">
       <DependentUpon>FormUbahPelanggan.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Pesan\FormDaftarPesan.resx">
+      <DependentUpon>FormDaftarPesan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pesan\FormHapusPesan.resx">
+      <DependentUpon>FormHapusPesan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pesan\FormTambahPesan.resx">
+      <DependentUpon>FormTambahPesan.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

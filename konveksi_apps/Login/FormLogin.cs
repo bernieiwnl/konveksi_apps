@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using konveksi_apps.Form_Utama;
 using konveksi_apps.Notifikasi;
+using konveksi_apps.Pesan;
 using KonveksiClass;
 namespace konveksi_apps.Login
 {
@@ -38,6 +39,8 @@ namespace konveksi_apps.Login
                 {
                     MessageBox.Show("Selamat Datang Di Sistem Penjualan Pembelian UD. Konveksi Dan Sablon Indra ", "info");
                     FormUtama frm = (FormUtama)this.Owner;
+                    FormTambahPesan frm_pesan = new FormTambahPesan();
+                    
                     
                     DaftarPegawai daftar = new DaftarPegawai();
                     string hasil = daftar.CariData("username", textBoxUser.Text);
@@ -45,6 +48,7 @@ namespace konveksi_apps.Login
                     {
                         frm.Enabled = true;
                         frm.labelKode.Text = daftar.ListPegawai[0].KodePegawai;
+                        frm_pesan.labelIdPengirim.Text = daftar.ListPegawai[0].KodePegawai;
                         frm.labelNamaPegawai.Text = daftar.ListPegawai[0].Nama;
                         frm.labelNamaJabatan.Text = daftar.ListPegawai[0].JabatanPegawai.NamaJabatan;
                         PengaturanHakAksesMenu(daftar.ListPegawai[0].JabatanPegawai.NamaJabatan);

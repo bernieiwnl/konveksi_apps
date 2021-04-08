@@ -42,6 +42,7 @@
             this.buttonPenjualan = new System.Windows.Forms.Button();
             this.buttonTransaksi = new System.Windows.Forms.Button();
             this.panelSubMenuMaster = new System.Windows.Forms.Panel();
+            this.button1 = new System.Windows.Forms.Button();
             this.buttonJenisBahan = new System.Windows.Forms.Button();
             this.buttonBahan = new System.Windows.Forms.Button();
             this.buttonKegiatan = new System.Windows.Forms.Button();
@@ -56,12 +57,12 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.buttonPesan = new System.Windows.Forms.Button();
             this.buttonNotifikasi = new System.Windows.Forms.Button();
             this.label3 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.panelFormUtama = new System.Windows.Forms.Panel();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.button1 = new System.Windows.Forms.Button();
             this.panelSideMenu.SuspendLayout();
             this.panelSubMenuTransaksi.SuspendLayout();
             this.panelSubMenuMaster.SuspendLayout();
@@ -286,6 +287,26 @@
             this.panelSubMenuMaster.Name = "panelSubMenuMaster";
             this.panelSubMenuMaster.Size = new System.Drawing.Size(172, 394);
             this.panelSubMenuMaster.TabIndex = 13;
+            // 
+            // button1
+            // 
+            this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(164)))), ((int)(((byte)(164)))), ((int)(((byte)(164)))));
+            this.button1.Dock = System.Windows.Forms.DockStyle.Top;
+            this.button1.FlatAppearance.BorderSize = 0;
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button1.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.button1.Image = ((System.Drawing.Image)(resources.GetObject("button1.Image")));
+            this.button1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button1.Location = new System.Drawing.Point(0, 355);
+            this.button1.Name = "button1";
+            this.button1.Padding = new System.Windows.Forms.Padding(20, 0, 0, 0);
+            this.button1.Size = new System.Drawing.Size(172, 39);
+            this.button1.TabIndex = 23;
+            this.button1.Text = "Satuan";
+            this.button1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button1.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // buttonJenisBahan
             // 
@@ -519,6 +540,7 @@
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(117)))), ((int)(((byte)(117)))), ((int)(((byte)(117)))));
+            this.panel1.Controls.Add(this.buttonPesan);
             this.panel1.Controls.Add(this.buttonNotifikasi);
             this.panel1.Controls.Add(this.label3);
             this.panel1.Controls.Add(this.label1);
@@ -531,6 +553,23 @@
             this.panel1.Size = new System.Drawing.Size(666, 100);
             this.panel1.TabIndex = 13;
             // 
+            // buttonPesan
+            // 
+            this.buttonPesan.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
+            this.buttonPesan.FlatAppearance.BorderSize = 0;
+            this.buttonPesan.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonPesan.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonPesan.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.buttonPesan.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.buttonPesan.Location = new System.Drawing.Point(6, 46);
+            this.buttonPesan.Name = "buttonPesan";
+            this.buttonPesan.Size = new System.Drawing.Size(93, 43);
+            this.buttonPesan.TabIndex = 15;
+            this.buttonPesan.Text = "Daftar Pesan";
+            this.buttonPesan.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.buttonPesan.UseVisualStyleBackColor = true;
+            this.buttonPesan.Click += new System.EventHandler(this.buttonPesan_Click);
+            // 
             // buttonNotifikasi
             // 
             this.buttonNotifikasi.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
@@ -540,9 +579,9 @@
             this.buttonNotifikasi.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.buttonNotifikasi.Image = ((System.Drawing.Image)(resources.GetObject("buttonNotifikasi.Image")));
             this.buttonNotifikasi.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.buttonNotifikasi.Location = new System.Drawing.Point(17, 25);
+            this.buttonNotifikasi.Location = new System.Drawing.Point(6, 5);
             this.buttonNotifikasi.Name = "buttonNotifikasi";
-            this.buttonNotifikasi.Size = new System.Drawing.Size(127, 54);
+            this.buttonNotifikasi.Size = new System.Drawing.Size(93, 35);
             this.buttonNotifikasi.TabIndex = 14;
             this.buttonNotifikasi.Text = "Notifikasi";
             this.buttonNotifikasi.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
@@ -593,26 +632,6 @@
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
-            // 
-            // button1
-            // 
-            this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(164)))), ((int)(((byte)(164)))), ((int)(((byte)(164)))));
-            this.button1.Dock = System.Windows.Forms.DockStyle.Top;
-            this.button1.FlatAppearance.BorderSize = 0;
-            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button1.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.button1.Image = ((System.Drawing.Image)(resources.GetObject("button1.Image")));
-            this.button1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button1.Location = new System.Drawing.Point(0, 355);
-            this.button1.Name = "button1";
-            this.button1.Padding = new System.Windows.Forms.Padding(20, 0, 0, 0);
-            this.button1.Size = new System.Drawing.Size(172, 39);
-            this.button1.TabIndex = 23;
-            this.button1.Text = "Satuan";
-            this.button1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button1.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.button1.UseVisualStyleBackColor = false;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // FormUtama
             // 
@@ -676,5 +695,6 @@
         public System.Windows.Forms.Button buttonBahan;
         public System.Windows.Forms.Button buttonJenisBahan;
         public System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button buttonPesan;
     }
 }

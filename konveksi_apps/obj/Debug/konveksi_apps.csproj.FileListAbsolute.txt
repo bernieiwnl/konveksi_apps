@@ -546,3 +546,6 @@ D:\FREELANCE\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.csproj.CoreComp
 D:\FREELANCE\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.csproj.CopyComplete
 D:\FREELANCE\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.exe
 D:\FREELANCE\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.pdb
+D:\FREELANCE\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pesan.FormDaftarPesan.resources
+D:\FREELANCE\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pesan.FormTambahPesan.resources
+D:\FREELANCE\konveksi_apps\konveksi_apps\obj\Debug\konveksi_apps.Pesan.FormHapusPesan.resources

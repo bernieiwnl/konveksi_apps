@@ -13,6 +13,7 @@ using konveksi_apps.Pekerjaan;
 using konveksi_apps.Pelanggan;
 using konveksi_apps.Satuan;
 using konveksi_apps.Supplier;
+using konveksi_apps.Pesan;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -216,6 +217,13 @@ namespace konveksi_apps.Form_Utama
         {
             openChildForm(new FormDaftarSatuan());
             hide();
+        }
+
+        private void buttonPesan_Click(object sender, EventArgs e)
+        {
+            FormDaftarPesan fmt = new FormDaftarPesan();
+            fmt.labelIdPenerima.Text = labelKode.Text;
+            fmt.Show();
         }
     }
 }
