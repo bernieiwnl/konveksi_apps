@@ -41,3 +41,10 @@ C:\Users\Agustian Suhartono\Downloads\konveksi_apps\KonveksiClass\obj\Debug\Konv
 C:\Users\Agustian Suhartono\Downloads\konveksi_apps\KonveksiClass\obj\Debug\KonveksiClass.csproj.CopyComplete
 C:\Users\Agustian Suhartono\Downloads\konveksi_apps\KonveksiClass\obj\Debug\KonveksiClass.dll
 C:\Users\Agustian Suhartono\Downloads\konveksi_apps\KonveksiClass\obj\Debug\KonveksiClass.pdb
+D:\FREELANCE\konveksi_apps\KonveksiClass\bin\Debug\KonveksiClass.dll
+D:\FREELANCE\konveksi_apps\KonveksiClass\bin\Debug\KonveksiClass.pdb
+D:\FREELANCE\konveksi_apps\KonveksiClass\obj\Debug\KonveksiClass.csprojAssemblyReference.cache
+D:\FREELANCE\konveksi_apps\KonveksiClass\obj\Debug\KonveksiClass.csproj.CoreCompileInputs.cache
+D:\FREELANCE\konveksi_apps\KonveksiClass\obj\Debug\KonveksiClass.csproj.CopyComplete
+D:\FREELANCE\konveksi_apps\KonveksiClass\obj\Debug\KonveksiClass.dll
+D:\FREELANCE\konveksi_apps\KonveksiClass\obj\Debug\KonveksiClass.pdb

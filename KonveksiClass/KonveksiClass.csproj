@@ -64,6 +64,7 @@
     <Compile Include="DaftarPegawai.cs" />
     <Compile Include="DaftarPekerjaan.cs" />
     <Compile Include="DaftarPelanggan.cs" />
+    <Compile Include="DaftarPesan.cs" />
     <Compile Include="DaftarSatuan.cs" />
     <Compile Include="DaftarSupplier.cs" />
     <Compile Include="DaftarWarna.cs" />
@@ -80,6 +81,7 @@
     <Compile Include="pegawai.cs" />
     <Compile Include="pekerjaan.cs" />
     <Compile Include="pelanggan.cs" />
+    <Compile Include="pesan.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="satuan.cs" />
     <Compile Include="supplier.cs" />
