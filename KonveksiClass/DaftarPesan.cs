@@ -121,6 +121,27 @@ namespace KonveksiClass
             }
         }
 
+        public string HapusData(pesan p)
+        {
+            Koneksi k = new Koneksi();
+            k.Connect();
+
+            string sql = "DELETE FROM satuan WHERE idPesan = '" + p.IdPesan + "'";
+
+            MySqlCommand c = new MySqlCommand(sql, k.KoneksiDB);
+
+            try
+            {
+                c.ExecuteNonQuery();
+                return "sukses";
+            }
+            catch (Exception e)
+            {
+                return e.Message;
+            }
+        }
+
+
 
     }
 }

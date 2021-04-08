@@ -38,6 +38,7 @@ namespace konveksi_apps.Login
                 {
                     MessageBox.Show("Selamat Datang Di Sistem Penjualan Pembelian UD. Konveksi Dan Sablon Indra ", "info");
                     FormUtama frm = (FormUtama)this.Owner;
+                    
                     DaftarPegawai daftar = new DaftarPegawai();
                     string hasil = daftar.CariData("username", textBoxUser.Text);
                     if(hasil=="sukses")
